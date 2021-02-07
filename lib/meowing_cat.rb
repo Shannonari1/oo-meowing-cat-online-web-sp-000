@@ -2,10 +2,9 @@
 class Cat
   attr_accessor :"Maru"
 
-maru.name = "Maru"
-maru.name
 
-  def meow
+
+  def meow(Cat)
     puts "meow!"
   end
 
