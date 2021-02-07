@@ -2,10 +2,10 @@
 class Cat
   attr_accessor :"Maru"
 
+maru.meow
 
-
-  def meow(Cat)
+  def meow
     puts "meow!"
   end
-Cat
+
 end
